@@ -1,5 +1,3 @@
-![GitHub](https://img.shields.io/github/license/viktak/TPM-H370)
-
 # TPM-H370
 TPM 2.0 Module for Gigabyte H370 series motherboards
 
